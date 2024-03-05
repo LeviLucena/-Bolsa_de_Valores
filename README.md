@@ -1,4 +1,4 @@
-# Painel interativo de análise de dados da bolsa de valores
+# Painel Interativo da Bolsa de Valores
 Este é um projeto desenvolvido em R utilizando o framework Shiny para criar uma aplicação web interativa para análise de dados de bolsa de valores. A aplicação permite visualizar os preços das ações ao longo do tempo, o volume de negociação diário, a correlação entre as ações e a volatilidade histórica das ações.
 
 ![image](https://github.com/LeviLucena/Bolsa_de_Valores/assets/34045910/eb85bf90-f647-4c14-926e-caebb5dd5cd9)
