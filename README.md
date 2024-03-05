@@ -1,4 +1,4 @@
-# Análise de Bolsa de Valores
+# Painel interativo de análise de dados da bolsa de valores
 Este é um projeto desenvolvido em R utilizando o framework Shiny para criar uma aplicação web interativa para análise de dados de bolsa de valores. A aplicação permite visualizar os preços das ações ao longo do tempo, o volume de negociação diário, a correlação entre as ações e a volatilidade histórica das ações.
 
 ![image](https://github.com/LeviLucena/Bolsa_de_Valores/assets/34045910/eb85bf90-f647-4c14-926e-caebb5dd5cd9)
@@ -16,7 +16,7 @@ Certifique-se de ter o ambiente do R instalado em seu sistema.
 1. Instale as bibliotecas necessárias executando ```install.packages(c("shiny", "plotly", "dplyr"))``` no console do R.
 2. Faça o download ou clone este repositório.
 3. Navegue até o diretório do projeto.
-4. Execute o arquivo app.R com o RStudio ou execute ```runApp("app.R")``` no console do R.
+4. Execute o arquivo ```app.R``` com o RStudio ou execute ```runApp("app.R")``` no console do R.
 
 ## Desenvolvimento
 Este projeto foi desenvolvido utilizando o R com o framework Shiny para criar a interface web interativa. Os gráficos foram gerados utilizando a biblioteca Plotly, que permite a criação de gráficos interativos. Os dados de preços das ações e volume de negociação foram gerados aleatoriamente para fins de demonstração.
